@@ -40,7 +40,7 @@ This is an example using options:
 
 ## Breaking Changes
 
-Bumping to Neutrino 6 and cssnext 3.
+Bumping to Neutrino 7 and cssnext 3.
 The most meaningful change is in image-set polyfill.
 See https://github.com/MoOx/postcss-cssnext/releases/tag/3.0.0
 

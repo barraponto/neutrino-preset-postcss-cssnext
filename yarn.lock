@@ -1029,11 +1029,11 @@ deep-sort-object@^1.0.2:
   dependencies:
     is-plain-object "^2.0.1"
 
-deepmerge@^1.4.4, deepmerge@^1.5.0:
+deepmerge@^1.4.4:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-1.5.0.tgz#00bc5b88fd23b8130f9f5049071c3420e07a5465"
 
-deepmerge@^1.5.2:
+deepmerge@^1.5.0, deepmerge@^1.5.2:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-1.5.2.tgz#10499d868844cdad4fee0842df8c7f6f0c95a753"
 
@@ -2793,9 +2793,9 @@ neutrino-middleware-eslint@^7.2.1:
     lodash.clonedeep "^4.5.0"
     ramda "^0.24.1"
 
-neutrino-middleware-postcss@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/neutrino-middleware-postcss/-/neutrino-middleware-postcss-3.0.0.tgz#2d621a4a4d9741964fedf38301a79605b7863f92"
+neutrino-middleware-postcss@3.1.0-rc.1:
+  version "3.1.0-rc.1"
+  resolved "https://registry.yarnpkg.com/neutrino-middleware-postcss/-/neutrino-middleware-postcss-3.1.0-rc.1.tgz#de0ff4f58b43beac21aa016a240e1e4bf5c1e97a"
   dependencies:
     deepmerge "^1.4.4"
     postcss-loader "^2.0.6"
